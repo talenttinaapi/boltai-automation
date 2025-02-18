@@ -1,4 +1,8 @@
 {
+  "module": "ESNext",
+  "esModuleInterop": true,
+  "resolveJsonModule": true,
+  "moduleResolution": "node",
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
